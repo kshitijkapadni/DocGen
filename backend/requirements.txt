@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-docx
+GitPython
+psycopg2-binary
+chromadb
+pydantic
+python-jose
+requests
+crewai
+ollama
